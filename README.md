@@ -25,17 +25,23 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaquinpani/joaquinpani/output/github-contribution-grid-snake.svg">
 </picture>
  
+<div align="center">
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="left">
-<a href="https://twitter.com/subhadeepzilong" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subhadeep-chakraborty-b341a8191" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
-<a href="https://fb.com/subhadeep.chakraborty.555" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="subhadeep.chakraborty.555" height="30" width="40" /></a>
-<a href="https://instagram.com/subhadeepzilong" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/subhadeepchakra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/hackerrank.svg" alt="subhadeepchakra3" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/subhadeepchakraborty555" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/geeks-for-geeks.svg" alt="subhadeepchakraborty555" height="30" width="40" /></a>
-<a href="https://leetcode.com/subhadeepchakraborty555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="subhadeepchakraborty555" height="30" width="40" /></a>
+
+<p>
+  <a href="https://gamejolt.com/@Joaquinmaker" target="_blank">
+    <img src="https://img.shields.io/badge/Game_Jolt-181818?style=for-the-badge&logo=gamejolt&logoColor=2fbe6b" alt="Game Jolt" height="35" />
+  </a>
+  <a href="https://discord.com/users/joaquinsamu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45" />
+  </a>
+  <a href="https://www.youtube.com/@FNAFUCNPLUS" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="35" width="45" />
+  </a>
 </p>
+
+</div>
 
 
 

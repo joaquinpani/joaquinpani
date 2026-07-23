@@ -1,3 +1,5 @@
+
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
@@ -13,9 +15,13 @@
 
 
 
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
+# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> IDE, Software and Tools:
 
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,godot,unreal,arduino,blender,vscode,visualstudio,dotnet,pycharm,git,github,notion" alt="Herramientas y Plataformas" />
+  </a><img src="https://api.iconify.design/simple-icons:meta.svg?color=%231877F2" alt="Meta" width="48" height="48" style="vertical-align: middle; margin: 0 4px;" /><img src="https://cdn.simpleicons.org/scratch/4D97FF" alt="Scratch" width="48" height="48" style="vertical-align: middle; margin: 0 4px;" /><img src="https://cdn.simpleicons.org/tinkercad/000000" alt="Tinkercad" width="48" height="48" style="vertical-align: middle; margin: 0 4px;" /><img src="https://cdn.simpleicons.org/davinciresolve/1A8CFF" alt="DaVinci Resolve" width="48" height="48" style="vertical-align: middle; margin: 0 4px;" />
+</div>
 
 ##
 
@@ -37,8 +43,11 @@
 </picture>
 
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cs,cpp" alt="Lenguajes de Programación" />
+  </a><img src="https://api.iconify.design/vscode-icons:file-type-godot.svg" alt="GDScript" width="48" height="48" style="vertical-align: middle; margin: 0 4px;" /><img src="https://cdn.simpleicons.org/renpy/FF6600" alt="Ren'Py" width="48" height="48" style="vertical-align: middle; margin: 0 4px;" />
+</div>
 
 
 

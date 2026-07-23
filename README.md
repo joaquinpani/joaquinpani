@@ -1,7 +1,6 @@
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/welcometext.gif" alt="Welcome!" width="600"/>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
 <a href="https://twitter.com/subhadeepzilong" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
@@ -85,3 +84,5 @@
 ![](https://github-profile-trophies.vercel.app/?username=joaquinpani&theme=tokyonight)
 
 ![](https://count.getloli.com/get/@joaquinpani)
+
+<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
